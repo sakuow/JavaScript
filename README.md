@@ -1,1 +1,1 @@
-# javascriptの学習で使用した
+## JavaScript　学習
